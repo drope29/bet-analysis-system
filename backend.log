@@ -1,0 +1,76 @@
+/app/ia.py:3: FutureWarning:
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Aviso: SUPABASE_URL ou SUPABASE_KEY não configuradas. Banco de dados não será acessível.
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+/app/ia.py:3: FutureWarning:
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+ * Debugger is active!
+ * Debugger PIN: 631-326-424
+127.0.0.1 - - [13/Mar/2026 20:54:06] "GET /stats HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 20:54:07] "OPTIONS /analisar HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 20:54:29] "POST /analisar HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 20:54:51] "GET /stats HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 20:54:51] "OPTIONS /analisar HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 20:55:14] "POST /analisar HTTP/1.1" 200 -
+ * Detected change in '/app/ia.py', reloading
+Aviso: SUPABASE_URL ou SUPABASE_KEY não configuradas. Banco de dados não será acessível.
+Iniciando análise para: Flamengo x Vasco
+Coletando dados avançados para: Flamengo...
+Aviso: Scraping real falhou ou foi bloqueado. Usando fallback detalhado para Flamengo...
+Coletando dados avançados para: Vasco...
+Aviso: Scraping real falhou ou foi bloqueado. Usando fallback detalhado para Vasco...
+Aviso: GEMINI_API_KEY não configurada. Retornando palpite simulado.
+Iniciando análise para: Flamengo x Vasco
+Coletando dados avançados para: Flamengo...
+Aviso: Scraping real falhou ou foi bloqueado. Usando fallback detalhado para Flamengo...
+Coletando dados avançados para: Vasco...
+Aviso: Scraping real falhou ou foi bloqueado. Usando fallback detalhado para Vasco...
+Aviso: GEMINI_API_KEY não configurada. Retornando palpite simulado.
+ * Restarting with stat
+/app/ia.py:3: FutureWarning:
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+ * Debugger is active!
+ * Debugger PIN: 631-326-424
+ * Detected change in '/app/app.py', reloading
+Aviso: SUPABASE_URL ou SUPABASE_KEY não configuradas. Banco de dados não será acessível.
+ * Restarting with stat
+/app/ia.py:3: FutureWarning:
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+ * Debugger is active!
+ * Debugger PIN: 631-326-424
+127.0.0.1 - - [13/Mar/2026 21:06:30] "GET /stats HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 21:06:30] "OPTIONS /analisar HTTP/1.1" 200 -
+127.0.0.1 - - [13/Mar/2026 21:06:54] "POST /analisar HTTP/1.1" 200 -
